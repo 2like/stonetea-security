@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/stonetea-webserver/pom.xml" />
+        <option value="$PROJECT_DIR$/stonetea-studycenter/pom.xml" />
+        <option value="$PROJECT_DIR$/stonetea-security/pom.xml" />
+        <option value="$PROJECT_DIR$/stonetea-questions/pom.xml" />
+        <option value="$PROJECT_DIR$/stonetea-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/stonetea-apistore/pom.xml" />
+        <option value="$PROJECT_DIR$/daodemo/pom.xml" />
+        <option value="$PROJECT_DIR$/stonetea-core/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+</project>

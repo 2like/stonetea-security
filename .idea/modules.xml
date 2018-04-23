@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/daodemo/daodemo.iml" filepath="$PROJECT_DIR$/daodemo/daodemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/stonetea.iml" filepath="$PROJECT_DIR$/.idea/stonetea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stonetea-apistore/stonetea-apistore.iml" filepath="$PROJECT_DIR$/stonetea-apistore/stonetea-apistore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stonetea-core/stonetea-core.iml" filepath="$PROJECT_DIR$/stonetea-core/stonetea-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stonetea-demo/stonetea-demo.iml" filepath="$PROJECT_DIR$/stonetea-demo/stonetea-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stonetea-questions/stonetea-questions.iml" filepath="$PROJECT_DIR$/stonetea-questions/stonetea-questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stonetea-security/stonetea-security.iml" filepath="$PROJECT_DIR$/stonetea-security/stonetea-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stonetea-studycenter/stonetea-studycenter.iml" filepath="$PROJECT_DIR$/stonetea-studycenter/stonetea-studycenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stonetea-webserver/stonetea-webserver.iml" filepath="$PROJECT_DIR$/stonetea-webserver/stonetea-webserver.iml" />
+    </modules>
+  </component>
+</project>
